@@ -1,4 +1,4 @@
-#PitStop Toolkit
+# PitStop Toolkit
 
 Bash scripts I hold onto here to configure tools I repeatedly install on new builds. 
 Get up and go, just like a pit stop. I mainly use Debian-based distros.
